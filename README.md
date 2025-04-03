@@ -51,3 +51,28 @@ Through this project, I gained hands-on experience with:
 ## 📂 Repository Structure
 
 > Note: There is no `/code` folder for this project, as it was purely hardware-based and didn’t require programming.
+
+---
+
+## 📺 Supplemental Learning
+
+Throughout the project, I also reviewed video tutorials for soldering, digital logic, and breadboarding.
+
+See: [`tutorial-videos.md`](docs/tutorial-videos.md)
+
+---
+
+## 📚 Course Context
+
+This project was part of a digital systems course at NYCCT. More context is available in:
+- [`course-outline.pdf`](docs/digital-systems-course-outline.pdf)
+- [`lab_manual_part1.pdf`](docs/lab_manual_part1.pdf)
+- [`lab_manual_part2.pdf`](docs/lab_manual_part2.pdf)
+
+---
+
+## 🙋‍♂️ Built By
+
+**Yusuf Smaili**  
+Computer Engineering Technology Student  
+[GitHub](https://github.com/yusufsmaili)
