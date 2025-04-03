@@ -50,3 +50,4 @@ Through this project, I gained hands-on experience with:
 
 ## 📂 Repository Structure
 
+> Note: There is no `/code` folder for this project, as it was purely hardware-based and didn’t require programming.
