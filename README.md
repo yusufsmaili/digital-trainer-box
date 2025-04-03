@@ -8,13 +8,13 @@ Everything in this repository reflects the build process, tools used, diagrams r
 
 ## 📸 Project Gallery
 
-Here are some key images from the build:
+Here are some key visual references and supporting documents from the build:
 
-- **Lab Kit and Tools** – ![lab-kit-tools](images/lab-kit-tools.jpg)
-- **Toggle Switch Wiring (Photo)** – ![toggle-switch-photo](images/toggle-switch-photo.jpg)
-- **Rainbow Jumper Cables** – ![rainbow-cables](images/rainbow-cables.jpg)
-- **Breadboard Wiring Setup** – ![breadboard-photo](images/breadboard-photo.jpg)
-- **Blank Integrated Circuit Board** – ![blank-board](images/blank-integrated-circuit-board.jpg)
+- [Lab Kits & Tools (PDF)](images/Lab%20Kits%20%26%20Tools.pdf)
+- [Toggle Switch Wiring Reference (PDF)](images/Toggle%20Switch%20Wiring%20Reference.pdf)
+- [Rainbow Cables (PDF)](images/Rainbow%20Cables.pdf)
+- [Soldered Connections – Bottom Section (PDF)](images/Soldered%20Connections%20for%20Bottom%20Section%20of%20Digital%20Trainer%20Reference.pdf)
+- [Top Section – Outside View (PDF)](images/Top%20Section%20outside%20view%20of%20Digital%20Trainer.pdf)
 
 ---
 
@@ -22,35 +22,35 @@ Here are some key images from the build:
 
 Key components used in this project:
 
-- Toggle switches
-- Jumper wires (rainbow cables)
-- Resistors
-- LEDs
-- ICs
-- Breadboards
+- Toggle switches  
+- Jumper wires (rainbow cables)  
+- Resistors  
+- LEDs  
+- ICs  
+- Breadboards  
 - Soldering tools
 
 📝 Reference documents:
-- [`wire-chart.pdf`](docs/wire-chart.pdf)
-- [`electrical-components-handout.pdf`](docs/electrical-components-handout.pdf)
-- [`resistor-color-code.pdf`](docs/resistor-color-code.pdf)
+- [Wire Chart](docs/Rainbow%20Cable%20Mapping.jpg)
+- [Electrical Components Handout (PDF)](docs/Electrical%20Components%20EMT1130.pdf)
+- [Resistor Color Code (PDF)](docs/Resistor%20Color%20Code.pdf)
 
 ---
 
 ## 🧠 Learning Objectives
 
 Through this project, I gained hands-on experience with:
-- Soldering components to a board
-- Interpreting circuit diagrams
-- Wiring logic gate circuits
-- Identifying components and using reference materials
+- Soldering components to a board  
+- Interpreting circuit diagrams  
+- Wiring logic gate circuits  
+- Identifying components and using reference materials  
 - Managing tools and working independently on a physical build
 
 ---
 
 ## 📂 Repository Structure
 
-> Note: There is no `/code` folder for this project, as it was purely hardware-based and didn’t require programming.
+> Note: There is no /code folder for this project, as it was purely hardware-based and didn’t require programming.
 
 ---
 
@@ -58,16 +58,16 @@ Through this project, I gained hands-on experience with:
 
 Throughout the project, I also reviewed video tutorials for soldering, digital logic, and breadboarding.
 
-See: [`tutorial-videos`](docs/tutorial-videos)
+See: [`tutorial-videos.md`](docs/tutorial-videos.md)
 
 ---
 
 ## 📚 Course Context
 
 This project was part of a digital systems course at NYCCT. More context is available in:
-- [`course-outline.pdf`](docs/digital-systems-course-outline.pdf)
-- [`lab_manual_part1.pdf`](docs/lab_manual_part1.pdf)
-- [`lab_manual_part2.pdf`](docs/lab_manual_part2.pdf)
+- [Lab Manual Revised 2020 (PDF)](docs/EMT%201130%20-%20Lab%20Manual%20Revised%202020.pdf)
+- [Lab Manual Fall 2014 (PDF)](docs/EMT1130LabManualFall2014.PDF)
+- [Course Outline (PDF)](docs/Identifying%20Electrical%20Components%20for%20EMT%201130%20Kit%20Handout.pdf)
 
 ---
 
