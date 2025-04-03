@@ -8,13 +8,14 @@ Everything in this repository reflects the build process, tools used, diagrams r
 
 ## 📸 Project Gallery
 
-Here are some key visual references and supporting documents from the build:
+Here are some key visuals from my actual build process:
 
 - [Lab Kits & Tools (PDF)](images/Lab%20Kits%20%26%20Tools.pdf)
-- [Toggle Switch Wiring Reference (PDF)](images/Toggle%20Switch%20Wiring%20Reference.pdf)
-- [Rainbow Cables (PDF)](images/Rainbow%20Cables.pdf)
-- [Soldered Connections – Bottom Section (PDF)](images/Soldered%20Connections%20for%20Bottom%20Section%20of%20Digital%20Trainer%20Reference.pdf)
+- [My Toggle Switch Wiring (PDF)](images/Toggle%20Switch%20Wiring.pdf)
+- [My Rainbow Cable Setup (PDF)](images/Rainbow%20Cable%20Setup.pdf)
+- [Front View of Soldered Board with Components (PDF)](images/Soldered%20Integrated%20Circuit%20Board%20with%20Components%20(FRONT).pdf)
 - [Top Section – Outside View (PDF)](images/Top%20Section%20outside%20view%20of%20Digital%20Trainer.pdf)
+
 
 ---
 
@@ -27,7 +28,7 @@ Key components used in this project:
 - Resistors  
 - LEDs  
 - ICs  
-- Breadboards  
+- Circuitboard  
 - Soldering tools
 
 📝 Reference documents:
