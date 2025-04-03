@@ -12,7 +12,7 @@ Here are some key visuals from my actual build process:
 
 - [Lab Kits & Tools (PDF)](images/Lab%20Kits%20%26%20Tools.pdf)
 - [My Toggle Switch Wiring (PDF)](images/Toggle%20Switch%20Wiring.pdf)
-- [My Rainbow Cable Setup (PDF)](images/Rainbow%20Cable%20Setup.pdf)
+- [Soldering of Rainbow Cables – Top Section (PDF)](images/Soldering%20of%20Rainbow%20Cables%20to%20their%20components%20on%20Top%20Section.pdf)
 - [Front View of Soldered Board with Components (PDF)](images/Soldered%20Integrated%20Circuit%20Board%20with%20Components%20(FRONT).pdf)
 - [Top Section – Outside View (PDF)](images/Top%20Section%20outside%20view%20of%20Digital%20Trainer.pdf)
 
