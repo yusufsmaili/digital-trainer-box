@@ -58,7 +58,7 @@ Through this project, I gained hands-on experience with:
 
 Throughout the project, I also reviewed video tutorials for soldering, digital logic, and breadboarding.
 
-See: [`tutorial-videos.md`](docs/tutorial-videos.md)
+See: [`tutorial-videos`](docs/tutorial-videos)
 
 ---
 
